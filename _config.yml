@@ -1,5 +1,0 @@
-markdown: rdiscount
-permalink: /:year/:month/:title/
-author: wangzhfeng
-pygments: true
-paginate: 24
