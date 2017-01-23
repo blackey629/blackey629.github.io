@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>WangZhfeng&#39;s blog</title>
   <subtitle>What doesn&#39;t kill you make you stronger!</subtitle>
-  <link href="/www/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.example.com/"/>
+  <link href="http://wangzhfeng.github.io/"/>
   <updated>2017-01-23T13:41:19.323Z</updated>
-  <id>http://www.example.com/</id>
+  <id>http://wangzhfeng.github.io/</id>
   
   <author>
     <name>wangzhenfeng</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Git如何找到私钥</title>
-    <link href="http://www.example.com/2017/01/23/Git%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E7%A7%81%E9%92%A5/"/>
-    <id>http://www.example.com/2017/01/23/Git如何找到私钥/</id>
+    <link href="http://wangzhfeng.github.io/2017/01/23/Git%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E7%A7%81%E9%92%A5/"/>
+    <id>http://wangzhfeng.github.io/2017/01/23/Git如何找到私钥/</id>
     <published>2017-01-23T13:41:19.000Z</published>
     <updated>2017-01-23T13:41:19.323Z</updated>
     
@@ -37,18 +37,18 @@
     </summary>
     
     
-      <category term="git" scheme="http://www.example.com/tags/git/"/>
+      <category term="git" scheme="http://wangzhfeng.github.io/tags/git/"/>
     
-      <category term="windows" scheme="http://www.example.com/tags/windows/"/>
+      <category term="windows" scheme="http://wangzhfeng.github.io/tags/windows/"/>
     
-      <category term="emacs" scheme="http://www.example.com/tags/emacs/"/>
+      <category term="emacs" scheme="http://wangzhfeng.github.io/tags/emacs/"/>
     
   </entry>
   
   <entry>
     <title>all-in-one spring jars</title>
-    <link href="http://www.example.com/2017/01/22/spring-assemble/"/>
-    <id>http://www.example.com/2017/01/22/spring-assemble/</id>
+    <link href="http://wangzhfeng.github.io/2017/01/22/spring-assemble/"/>
+    <id>http://wangzhfeng.github.io/2017/01/22/spring-assemble/</id>
     <published>2017-01-22T09:01:37.000Z</published>
     <updated>2017-01-22T14:31:59.764Z</updated>
     
@@ -62,9 +62,9 @@
     </summary>
     
     
-      <category term="spring" scheme="http://www.example.com/tags/spring/"/>
+      <category term="spring" scheme="http://wangzhfeng.github.io/tags/spring/"/>
     
-      <category term="java" scheme="http://www.example.com/tags/java/"/>
+      <category term="java" scheme="http://wangzhfeng.github.io/tags/java/"/>
     
   </entry>
   
